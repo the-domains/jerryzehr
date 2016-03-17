@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JerryZehr]]></title>
         <description><![CDATA[JerryZehr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jerryzehr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 20:00:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 20:09:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jerryzehr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c81f0a5-4db4-4375-8cb1-a48f98f3b137.jpg">]]></description>
-            <link>undefined98020c9b-b25f-472f-86bc-bd49ff96374b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f38e718-2d46-40f5-8cd0-1449f9140fcc.jpg">]]></description>
+            <link>https://thegrid.ai/jerryzehr/98020c9b-b25f-472f-86bc-bd49ff96374b/index.html</link>
             <guid isPermaLink="false">98020c9b-b25f-472f-86bc-bd49ff96374b</guid>
-            <pubDate>Thu, 17 Mar 2016 20:00:55 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 20:09:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
