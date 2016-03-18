@@ -1,6 +1,6 @@
 name: JerryZehr
 favicon: null
-layout_spectrum: 0.89616
+layout_spectrum: 0.54142
 typography_spectrum: 0.0725666496437043
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.32056716084480286
+  brandStrength: 0.5
   lightness: 0.6562012208160013
   saturation: 0.17521916492842138
   rhythmicContrast: 0.33718148549087346
