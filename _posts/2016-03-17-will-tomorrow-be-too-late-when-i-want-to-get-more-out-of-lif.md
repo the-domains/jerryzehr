@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Will Tomorrow Be Too Late When I Want to Get
   More Out of Life?
-datePublished: '2016-03-17T20:28:16.541Z'
-dateModified: '2016-03-17T20:28:13.168Z'
+datePublished: '2016-03-18T11:53:58.548Z'
+dateModified: '2016-03-18T11:52:05.410Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-will-tomorrow-be-too-late-when-i-want-to-get-more-out-of-lif.md
@@ -24,9 +24,10 @@ url: will-tomorrow-be-too-late-when-i-want-to-get-more-out-of-lif/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4086ea5e-ecd3-47ad-baa3-1451be26b8f9.jpg)
+
 **_Will Tomorrow Be Too Late When I Want to Get
 More Out of Life?_**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc7cca59-2b6f-4619-a5b8-884b5f935c8c.jpg)
 
 Have you ever wondered what you
 would change in your life if you found out you had only 10 years to live?
@@ -56,7 +57,7 @@ me; Make a change, make the world a better place, 'Cause tomorrow could be one
 day too late...
 
 One day too late... One day too
-late...
+late...\[/box\]
 
 ****
 
@@ -79,7 +80,9 @@ __
 
 Cause tomorrow could be one day too late...
 
-## Time Comes Whether We're Ready or
+## 
+
+Time Comes Whether We're Ready or
 Not
 
 We all find excuses for putting
@@ -96,8 +99,12 @@ Sometimes just because a task or
 problem seem to squeak the loudest doesn't mean it is the most important thing
 to us.
 
-### How Do You Make Sure You Get the
+### 
+
+How Do You Make Sure You Get the
 Most Out of Life?
+
+\[box\] 
 
 Some
 people drift through their entire life.
@@ -112,9 +119,13 @@ __
 _It happens so gradually they are
 unaware of how their lives are slipping away until it's too late._
 
+Mary Kay Ash\[/box\]
+
 ____
 
-#### **The First
+#### **
+
+The First
 Thing I Do **
 
 ****
@@ -157,9 +168,22 @@ __
 _The most important step was
 getting clear about what I really wanted to get out of life?_
 
+I wrote an article 
+
+3 Steps to Developing a Plan for Self
+Discovery
+
+that takes
+the theme of Getting the Most Out of Life to the next level of implementation.
+
+In fact if you read my blogs you
+see my focus is on trying to bring the fullness of life to myself and others.
+
 Why?
 
-##### A True Story 
+##### 
+
+A True Story 
 
 When I was a senior in high
 school the glands under my jawbone started swelling up to the size of a
@@ -202,7 +226,11 @@ have an extreme case of mononucleosis."_
 in 1973 before we had such good testing for cancer and other diseases.)
 
 I was stuck on the words "most of
-the tests" and asked her what she meant by most? 
+the tests" and asked her what she meant by 
+
+most
+
+?
 
 She explained, they were waiting
 for one last test to come back and they would know for sure by tomorrow.
@@ -223,7 +251,9 @@ be about?**
 
 If you haven't an experience like
 I described, I invite you to imagine yourself in the hospital with the doctor
-saying, "you have 10 years to live."
+saying,"
+
+you have 10 years to live."
 
 How would you spend your time?
 
@@ -275,15 +305,7 @@ __
 
 Jerry
 
-P.S.  If you want to hear
-the whole song 
+  
 
-One Day to Late
-
-[][1]
-
-, click on the link,you can see some
-wonderful images with Skillet singing .
 
 [0]: http://jerryzehr.com/developing-a-structured-plan-for-self-discovery/ "3 Steps to Developing a Structured Plan for Self Discovery"
-[1]: http://youtu.be/3o3OosW0u6w
